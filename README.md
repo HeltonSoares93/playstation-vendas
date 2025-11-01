@@ -1,6 +1,6 @@
 # Processamento de mil linhas de dados com Spring Boot + MySQL
 ## Este projeto trata-se de um treinamento prático de desenvolvimento utilizando Java Spring Boot + MySql
-
+#### Neste repositório já encontra-se o arquivo .csv para auxiliar na sua implementação e importação no banco de dados
 Tecnologias utilizadas: Java 21 | Spring Boot | MySql WorkBench
 
 ### Construção do Banco de dados [100 linhas]
